@@ -65,8 +65,3 @@ export default function App(): JSX.Element {
     </HelmetProvider>
   );
 }
-
-/*
-const Memoized = memo();
-export default Memoized
-*/
